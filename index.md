@@ -1,3 +1,11 @@
+<a href="https://www.linkedin.com/in/buddhika159/" style="float: right;">LinkedIn &emsp;</a> 
+<a href="https://github.com/buddhika159" style="float: right;">&emsp; Github &emsp;</a> 
+<a href="pdf/resume.pdf" style="float: right;" >&emsp; Resume</a>
+<a href="pdf/Buddhika CV.pdf" style="float: right;" >&emsp; CV</a>
+<br><br>
+
+
+
 ## Portfolio
 
 ---
