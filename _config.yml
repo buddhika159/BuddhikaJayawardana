@@ -5,8 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I completed my <b>PhD in Mathematics</b> at the University of Texas at Dallas, focusing on developing efficient numerical methods that preserve the geometric properties of Hamiltonian systems. My teaching experience spans a variety of undergraduate courses, including calculus and linear algebra, and I am genuinely passionate about making mathematics accessible and exciting for students from diverse backgrounds.
   <br><br>
-  With expertise in Python, R, MATLAB, and advanced computational methods, I connect theoretical insights with practical applications effectively. My proficiency in machine learning, numerical analysis, and cloud technologies enables me to bring academic concepts to life in meaningful ways.
-  <br><br>
   I am actively seeking opportunities as a Teaching Assistant Professor where I can inspire the next generation of mathematicians and contribute meaningfully to the academic community. I look forward to engaging with colleagues and students who share a passion for mathematics and collaborative learning!
   <br><br>
   
@@ -14,3 +12,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# With expertise in Python, R, MATLAB, and advanced computational methods, I connect theoretical insights with practical applications effectively. My proficiency in machine learning, numerical analysis, and cloud technologies enables me to bring academic concepts to life in meaningful ways.
+# <br><br>
