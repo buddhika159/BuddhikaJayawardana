@@ -10,12 +10,9 @@
 ## Research
 
 
-<ol>
-
-
 ---
 
-<li> [Semiexplicit symplectic integrators for non-separable Hamiltonian systems](https://www.ams.org/journals/mcom/2023-92-339/S0025-5718-2022-03778-9/home.html) </li>
+- [Semiexplicit symplectic integrators for non-separable Hamiltonian systems](https://www.ams.org/journals/mcom/2023-92-339/S0025-5718-2022-03778-9/home.html) 
 
 <div style="text-align: center;">
   <img src="images/semiexplicit slide 1.jpg?raw=true" style="width: 400px; height: 300px;" />
@@ -28,7 +25,7 @@
 </div>
 
 ---
-<li> [Clebsch Canonization of Lie-Poisson Systems](https://www.aimsciences.org/article/doi/10.3934/jgm.2022017) </li>
+- [Clebsch Canonization of Lie-Poisson Systems](https://www.aimsciences.org/article/doi/10.3934/jgm.2022017) 
 
 > <p> Non-canonical Hamiltonian systems show up in many physical systems, such as rigid body dynamics and fluid dynamics, which can be identified on a Lie-Poisson manifold and typically possess a few invariants. We developed a new class of numerical integrators for these Lie-Poisson systems by constructing a canonical Hamiltonian system via a momentum map and solving it using a symplectic Runge-Kutta method. We demonstrated that the proposed method preserves system invariants better than the standard explicit Runge-Kutta method applied to the original Lie-Poisson system, and hence exhibits a more accurate longtime performance. </p>
 
@@ -45,18 +42,15 @@
 
 > <p> With the help of a momentum map \(M:T^*\mathfrak{g} \rightarrow \mathfrak{g}^{*}\) defined as \(\mu_i := c_{ij}^k q^j p_k\), we showed that we can relate the two brackets by setting \(F(q,p) = f(\mu)\) and \(G(q,p) = g(\mu)\). </p>
 
----
-
 
 
 
 
 ---
-<li> [Project 3 Title](http://example.com/) </li>
+- [Project 3 Title](http://example.com/) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-</ol>
 
 
 ---
