@@ -26,13 +26,8 @@
 ---
 2. [Clebsch Canonization of Lie-Poisson Systems](https://www.aimsciences.org/article/doi/10.3934/jgm.2022017)
 
->We propose a systematic procedure called the Clebsch canonization for obtaining a canonical Hamiltonian system that is related to a given Lie-Poisson equation via a momentum map. We describe both coordinate and geometric versions of the procedure, the latter apparently for the first time. We also find another momentum map so that the pair of momentum maps constitute a dual pair under a certain condition. The dual pair gives a concrete realization of what is commonly referred to as collectivization of Lie-Poisson systems. It also implies that solving the canonized system by symplectic Runge-Kutta methods yields so-called collective Lie-Poisson integrators that preserve the coadjoint orbits and hence the Casimirs exactly. We give a couple of examples, including the Kida vortex and the heavy top on a movable base with controls, which are Lie-Poisson systems on $so(2,1)^*$  and $(se(3) \times R^3)^*$, respectively.
+>We propose a systematic procedure called the Clebsch canonization for obtaining a canonical Hamiltonian system that is related to a given Lie-Poisson equation via a momentum map. We describe both coordinate and geometric versions of the procedure, the latter apparently for the first time. We also find another momentum map so that the pair of momentum maps constitute a dual pair under a certain condition. The dual pair gives a concrete realization of what is commonly referred to as collectivization of Lie-Poisson systems. It also implies that solving the canonized system by symplectic Runge-Kutta methods yields so-called collective Lie-Poisson integrators that preserve the coadjoint orbits and hence the Casimirs exactly. We give a couple of examples, including the Kida vortex and the heavy top on a movable base with controls, which are Lie-Poisson systems on \[so(2,1)^*\]  and \[(se(3) \times R^3)^*\], respectively.
 
-<div>
-    \[
-    \int_{a}^{b} f(x) \, dx = F(b) - F(a)
-    \]
-</div>
 
 
 
