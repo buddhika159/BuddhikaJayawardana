@@ -23,15 +23,26 @@
   <img src="images/semiexplicit slide 2.jpg?raw=true" style="width: 400px; height: 300px;" />
 </div>
 
-
+---
 2. [Clebsch Canonization of Lie-Poisson Systems](https://www.aimsciences.org/article/doi/10.3934/jgm.2022017)
 
-> <p>We propose a systematic procedure called the Clebsch canonization for obtaining a canonical Hamiltonian system that is related to a given Lie-Poisson equation via a momentum map. We describe both coordinate and geometric versions of the procedure, the latter apparently for the first time. We also find another momentum map so that the pair of momentum maps constitute a dual pair under a certain condition. The dual pair gives a concrete realization of what is commonly referred to as collectivization of Lie-Poisson systems. It also implies that solving the canonized system by symplectic Runge-Kutta methods yields so-called collective Lie-Poisson integrators that preserve the coadjoint orbits and hence the Casimirs exactly. We give a couple of examples, including the Kida vortex and the heavy top on a movable base with controls, which are Lie-Poisson systems on \(\mathfrak{so}(2,1)^*\)  and \(\left(\mathfrak{se}(3) \times \mathbb{R}^3\right)^*\), respectively.</p>
+> Non-canonical Hamiltonian systems show up in many physical systems, such as rigid body dynamics and fluid dynamics, which can be identified on a Lie-Poisson manifold and typically possess a few invariants. We developed a new class of numerical integrators for these Lie-Poisson systems by constructing a canonical Hamiltonian system via a momentum map and solving it using a symplectic Runge-Kutta method. We demonstrated that the proposed method preserves system invariants better than the standard explicit Runge-Kutta method applied to the original Lie-Poisson system, and hence exhibits a more accurate longtime performance. Following is a summary and an example.
+
+> Let \(\mathfrak{g}\) be a Lie algebra. Then one defines the Lie-Poisson bracket on \(\mathfrak{g}^{*}\) and the canonical Poisson bracket on \(T^{*}\mathbb{R}^{n}\) as follows: For any \(f,g: \mathfrak{g}^{*} \rightarrow \mathbb{R}\) and \(F,G: T^{*}\mathfrak{g} \rightarrow \mathbb{R}\),
+
+\[
+\begin{equation*} 
+\{f,g\}_{LP} (\mu) \coloneq \mu_k c_{ij}^k  \dfrac{\partial f}{\partial \mu_i} \dfrac{\partial g}{\partial \mu_j} \quad\quad \text{and} \quad\quad 
+\{F,G\}_P \coloneq \dfrac{\partial F}{\partial q^i} \dfrac{\partial G}{\partial p_i} - \dfrac{\partial G}{\partial q^i} \dfrac{\partial F}{\partial p_i}.
+\end{equation*}
+\]
+
+> With the help of a momentum map \(M:T^*\mathfrak{g} \rightarrow \mathfrak{g}^{*}\) defined as \(\mu_i \coloneq c_{ij}^k q^j p_k\), We showed that we can relate the two brackets by setting \(F(q,p) = f(\mu)\) and \(G(q,p) = g(\mu)\).
 
 
 
 ---
-[Project 3 Title](http://example.com/)
+3. [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
