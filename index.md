@@ -12,13 +12,14 @@
 
 1. [Semiexplicit symplectic integrators for non-separable Hamiltonian systems](https://www.ams.org/journals/mcom/2023-92-339/S0025-5718-2022-03778-9/home.html)
 
-<img src="images/semiexplicit slide 1.pdf?raw=true" style="width: 400px; height: 300px; display: block; margin: 0 auto;" />
-
+<center>
+  <img src="images/semiexplicit slide 1.pdf?raw=true" style="width: 400px; height: 300px;" />
+</center>
 
 
 >We construct a symplectic integrator for non-separable Hamiltonian systems combining an extended phase space approach of Pihajoki and the symmetric projection method. The resulting method is semiexplicit in the sense that the main time evolution step is explicit whereas the symmetric projection step is implicit. The symmetric projection binds potentially diverging copies of solutions, thereby remedying the main drawback of the extended phase space approach. Moreover, our semiexplicit method is symplectic in the original phase space. This is in contrast to existing extended phase space integrators, which are symplectic only in the extended phase space. We demonstrate that our method exhibits an excellent long-time preservation of invariants, and also that it tends to be as fast as and can be faster than Tao’s explicit modified extended phase space integrator particularly for small enough time steps and with higher-order implementations and for higher-dimensional problems.
 
-<img src="images/semiexplicit slide 1.pdf?raw=true" style="width: 400px; height: 300px; display: block; margin: 0 auto;" />
+<img src="images/semiexplicit slide 2.pdf?raw=true" style="width: 400px; height: 300px;" />
 
 
 
